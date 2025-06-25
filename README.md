@@ -1,8 +1,8 @@
-- Hello there'👋', I’m Nehal Kam
+- Hello there'👋', I’m Nehal Kamal
 
   
-- 🎙️I'm currently working on : vs code by pythom & C languages
-- 🌱I’m currently learning : javascript , c++ & HTML
+- 🎙️I'm currently working with : python , C , C++ , React , SQL and HTML languages
+- 🌱I’m currently learning : javascript and full stack 
 - 💬Ask me about : OH god please don't ask me anything rn i'm just kid learnong AI engineering
 - 📧Mail:nehaledeib@gmail.com
 - ⚡ Fun fact : Having grew up in egypt , I've never visited pyramids ^_^
