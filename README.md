@@ -1,4 +1,4 @@
-- Hello there'👋', I’m Nehal Kamal
+- Nehal El-deib
 
   
 - I'm currently working with : python , C , SQL , PHP and HTML languages
